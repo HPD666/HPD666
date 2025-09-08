@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about building software solutions, 
 
 ## 🛠️ Tech Stack
 
-- Languages: **JavaScript, TypeScript, Python, C#**
+- Languages: **JavaScript, TypeScript, Python, C#** and the one i made: Orgena
 - Frameworks: **React, Node.js, Express**
 - Tools: **Git, Docker, VS Code**
 - Databases: **MongoDB, PostgreSQL**

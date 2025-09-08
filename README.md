@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about building software solutions, 
 
 ## 🛠️ Tech Stack
 
-- Languages: **JavaScript, TypeScript, Python, C#** and the one i made: Orgena
+- Languages: **JavaScript, TypeScript, Python, C# and the one i made: Orgena**
 - Frameworks: **React, Node.js, Express**
 - Tools: **Git, Docker, VS Code**
 - Databases: **MongoDB, PostgreSQL**
@@ -21,6 +21,7 @@ Welcome to my GitHub profile! I'm passionate about building software solutions, 
 
 ![HPD666's GitHub stats](https://github-readme-stats.vercel.app/api?username=HPD666&show_icons=true&theme=radical)
 
+**Help me get more stars ⬆️⬆️ You can see no one gives me stars**
 ---
 
 ### 📫 Let's Connect!

@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm HPD666!
 
-<!--
-**HPD666/HPD666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about building software solutions, exploring new technologies, and sharing my work with the open-source community.
 
-Here are some ideas to get you started:
+## 🚀 Projects I'm Working On
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **[Orgena-Web](https://github.com/HPD666/Orgena-Web)**: The web interface for the Orgena ecosystem.
+- **[Orgena](https://github.com/HPD666/Orgena)**: Core project powering Orgena's features and services.
+- **[OrgenaHub](https://github.com/HPD666/OrgenaHub)**: Central hub for managing and connecting Orgena apps.
+- **[OrgenaCode-Guide](https://github.com/HPD666/OrgenaCode-Guide)**: Comprehensive guide and documentation for Orgena codebase and contributors.
+- **[Agm](https://github.com/HPD666/Agm)**: Additional tools and experiments I'm developing.
+
+## 🛠️ Tech Stack
+
+- Languages: **JavaScript, TypeScript, Python, C#**
+- Frameworks: **React, Node.js, Express**
+- Tools: **Git, Docker, VS Code**
+- Databases: **MongoDB, PostgreSQL**
+
+## 📈 GitHub Stats
+
+![HPD666's GitHub stats](https://github-readme-stats.vercel.app/api?username=HPD666&show_icons=true&theme=radical)
+
+---
+
+### 📫 Let's Connect!
+
+- **GitHub Discussions:** Open to collaborations, ideas, and questions.
+- **Issues & PRs:** Feel free to contribute or suggest improvements on any of my projects.
+
+Thanks for visiting my profile! 🚀

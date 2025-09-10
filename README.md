@@ -12,6 +12,9 @@ Welcome to my GitHub profile! I'm passionate about building software solutions, 
 - **[OrgenaCode-Guide](https://github.com/HPD666/OrgenaCode-Guide)**: Comprehensive guide and documentation for Orgena codebase and contributors.
 - **[Agm](https://github.com/HPD666/Agm)**: Additional tools and experiments I'm developing.
 
+https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif![image](https://github.com/user-attachments/assets/01ae8a23-b1fc-4d71-9168-f5d3e5b1195f)
+
+
 ## 🛠️ Tech Stack
 
 - Languages: **JavaScript, TypeScript, Python, C# and the one i made: Orgena**

@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm passionate about building software solutions, 
 ## 📈 GitHub Stats
 ![HPD666's GitHub stats](https://github-readme-stats.vercel.app/api?username=HPD666&show_icons=true&theme=radical)
 
-**Help me get more stars ⬆️⬆️ You can see no one gives me stars**
+
 ---
 
 ### 📫 Let's Connect!
